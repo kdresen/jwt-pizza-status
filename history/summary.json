@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pizza-service.kallai-byu-cs.click.ico",
     "slug": "jwt-pizza",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "81.93%",
+    "uptimeDay": "74.79%",
+    "uptimeWeek": "81.93%",
+    "uptimeMonth": "81.93%",
+    "uptimeYear": "81.93%",
     "time": 287,
-    "timeDay": 308,
+    "timeDay": 0,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-25": 363
+    }
   }
 ]
